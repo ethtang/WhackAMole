@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=WhackAMole
+comment1.params=numAttempts\ gridDimension
+comment1.target=WhackAMole(int,\ int)
+comment2.params=x\ y
+comment2.target=boolean\ place(int,\ int)
+comment3.params=x\ y
+comment3.target=void\ whack(int,\ int)
+comment4.params=
+comment4.target=void\ printGridToUser()
+comment5.params=
+comment5.target=void\ printGrid()
+comment6.params=
+comment6.target=char[][]\ getMoleGrid()
+comment7.params=
+comment7.target=int\ getMolesLeft()
+comment8.params=
+comment8.target=int\ getAttemptsLeft()
+comment9.params=
+comment9.target=int\ getScore()
+numComments=10
